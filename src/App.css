@@ -27,8 +27,8 @@
   width: 100%;
 }
 
-.register {
-  margin-left: 30%;
+.register, .product {
+  margin-left: 40%;
   margin-right: 30%;
 }
 
